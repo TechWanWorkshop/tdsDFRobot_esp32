@@ -8,7 +8,7 @@
 GravityTDS gravityTds;
 
 float temperature = 25, tdsValue;
-float a;
+
 void setup()
 {
     Serial.begin(115200);
